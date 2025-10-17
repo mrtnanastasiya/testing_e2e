@@ -1,4 +1,3 @@
-# Webpack5
+Badges:
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[![Build status](https://ci.appveyor.com/api/projects/status/4d46xxe9458fpxwj?svg=true)](https://ci.appveyor.com/project/mrtnanastasiya/testing-e2e)
